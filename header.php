@@ -35,8 +35,9 @@ echo "  <head>
           <div class=\"navbar-collapse collapse\">
             <ul class=\"nav navbar-nav\">
               <li class=\"active\"><a href=\"./index.php\">主页</a></li>
-			  
-              
+			   <li><a href=\"./products.php\">产品</a></li>
+                 <li><a href=\"./order.php\">购买</a></li>
+                 <li><a href=\"./user-center.php\">会员中心</a></li>
               <li><a href=\"./donate-list.php\">捐助名单</a></li>  
             </ul>
           </div><!--/.nav-collapse -->
