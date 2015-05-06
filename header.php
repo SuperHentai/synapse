@@ -38,8 +38,8 @@ echo "  <head>
               <li class=\"dropdown\">
                 <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-expanded=\"false\">产品 <span class=\"caret\"></span></a>
                 <ul class=\"dropdown-menu\" role=\"menu\">
-                  <li><a href=\"./vpn-detail.php\">Shadowsocks翻墙</a></li>
-                  <li><a href=\"./vpn-try.php\">Web服务器</a></li>
+                  <li><a href=\"./shadowsocks.php\">Shadowsocks翻墙</a></li>
+                  <li><a href=\"./webserver.php\">Web服务器</a></li>
                 </ul>
               </li>
                  <li><a href=\"./order.php\">购买</a></li>
