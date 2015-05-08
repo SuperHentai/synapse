@@ -38,7 +38,8 @@ echo "  <head>
                <li><a href=\"./products.php\">产品</a></li>
 
                  <li><a href=\"./user-center.php\">会员中心</a></li>
-              <li><a href=\"./donate-list.php\">捐助名单</a></li>  
+              <li><a href=\"./donate-list.php\">捐助名单</a></li>
+                <li><a href=\"./about-us.php\">关于</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
