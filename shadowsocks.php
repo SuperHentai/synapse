@@ -30,6 +30,9 @@ include ('logo.php');
                     <td>允许同时用户数</td><td> 1（包括1 PC+1 Android+1 OS X）</td><td>按照情况商议而定</td>
                 </tr>
                 <tr>
+                    <td>是否支持IPv6</td><td>是</td><td>是</td>
+                </tr>
+                <tr>
                     <td style="padding-top: 20px;padding-bottom: 20px;">价格</td><td>￥15.00/月<br />￥40.00/季度</td><td>￥50.00/月<br />￥130.00/季度</td>
                 </tr>
                 <tr>
