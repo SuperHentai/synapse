@@ -11,9 +11,9 @@ include ('logo.php');
     <!-- Three columns of text below the carousel -->
     <div align="center" style="width:55%;margin-left: auto;margin-right: auto;" class="row">
         <div style="margin-right: 20px;margin-left: 20px">
-            <table class="table" align="center" valign="center">
+            <table class="table table-bordered" style="text-align: center;margin: 0 auto;" >
                 <tr style="height: 70px">
-                    <th width="33%"></th><th width="33%">普通型</th><th width="33%">高级型</th>
+                    <th width="20%"></th><th width="40%">普通型</th><th width="40%">高级型</th>
                 </tr>
                 <tr>
                     <td>线路</td><td>美国西海岸/东海岸/日本东京</td><td>任意</td>
