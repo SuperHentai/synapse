@@ -8,7 +8,7 @@ $buttons = "https://kaguyablog.sinaapp.com/synapse-cdn/bootstrap/css/buttons.css
 echo "  <head>
     <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />
     <meta name=\"description\"
-    content=\"这是为蛤丝们提供的一个免费翻墙服务，本项目基于Shadowsocks,属于实验性项目\">
+    content=\"这是为蛤丝们提供的综合网络服务，包括翻墙服务、网站空间和文件存储与外链。\">
     <meta name=\"keywords\"
     content=\"synapse,hasi,蛤丝,翻墙,科学上网,蛤丝论坛,shadowsocks,梯子\">
     <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
