@@ -11,7 +11,7 @@ include ('logo.php');
     <!-- Three columns of text below the carousel -->
     <div align="center" style="width:55%;margin-left: auto;margin-right: auto;" class="row">
         <div style="margin-right: 20px;margin-left: 20px">
-            <table class="table table-bordered" style="text-align: center;margin: 0 auto;" >
+            <table class="table table-bordered" style="text-align: center;margin: 0 auto;vertical-align:middle;" >
                 <tr style="height: 70px;">
                     <th width="20%" style="text-align: center;margin: 0 auto"></th><th width="40%" style="text-align: center;margin: 0 auto">普通型</th><th style="text-align: center;margin: 0 auto" width="40%">高级型</th>
                 </tr>
