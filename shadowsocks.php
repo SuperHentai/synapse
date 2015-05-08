@@ -13,9 +13,9 @@ include ('logo.php');
         <div style="margin-right: 20px;margin-left: 20px">
             <table class="table table-bordered" style="text-align: center;vertical-align:middle;" >
                 <tr style="height: 70px;">
-                    <th width="20%" style="text-align: center;line-height: 70px;vertical-align:middle"></th>
-                    <th width="40%" style="text-align: center;line-height: 70px;vertical-align:middle">普通型</th>
-                    <th style="text-align: center;line-height: 70px;vertical-align:middle" width="40%">高级型</th>
+                    <th width="20%" style="text-align: center;padding-top: 70px;padding-bottom: 70px;"></th>
+                    <th width="40%" style="text-align: center;padding-top: 70px;padding-bottom: 70px;">普通型</th>
+                    <th style="text-align: center;padding-top: 70px;padding-bottom: 70px;" width="40%">高级型</th>
                 </tr>
                 <tr>
                     <td>线路</td><td>美国西海岸/东海岸/日本东京</td><td>任意</td>
@@ -24,7 +24,7 @@ include ('logo.php');
                     <td>带宽分配</td><td>共享</td><td>独享</td>
                 </tr>
                 <tr>
-                    <td style="line-height: 77px;vertical-align:middle">流量</td><td style="line-height: 77px;vertical-align:middle">无限，但受公平使用原则约束，月流量超过50GB以后，高峰时期分配带宽将下降</td><td style="line-height: 77px;vertical-align:middle">无限</td>
+                    <td style="padding-top: 77px;padding-bottom: 77px;">流量</td><td style="padding-top: 77px;padding-bottom: 77px;">无限，但受公平使用原则约束，月流量超过50GB以后，高峰时期分配带宽将下降</td><td style="padding-top: 77px;padding-bottom: 77px;">无限</td>
                 </tr>
                 <tr>
                     <td>允许同时用户数</td><td> 1（包括1 PC+1 Android+1 OS X）</td><td>按照情况商议而定</td>
