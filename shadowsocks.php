@@ -12,7 +12,7 @@ include ('logo.php');
     <div align="center" style="width:55%;margin-left: auto;margin-right: auto;" class="row">
         <div style="margin-right: 20px;margin-left: 20px">
             <table class="table table-bordered" style="text-align: center;margin: 0 auto;" >
-                <tr style="height: 70px">
+                <tr style="height: 70px;text-align: center;margin: 0 auto">
                     <th width="20%"></th><th width="40%">普通型</th><th width="40%">高级型</th>
                 </tr>
                 <tr>
