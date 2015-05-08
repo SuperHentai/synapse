@@ -15,7 +15,7 @@ include ('logo.php');
                 <tr style="height: 70px;">
                     <th width="20%" style="text-align: center;line-height: 70px;vertical-align:middle"></th>
                     <th width="40%" style="text-align: center;line-height: 70px;vertical-align:middle">普通型</th>
-                    <th style="text-align: center;margin: 0 auto" width="40%">高级型</th>
+                    <th style="text-align: center;line-height: 70px;vertical-align:middle" width="40%">高级型</th>
                 </tr>
                 <tr>
                     <td>线路</td><td>美国西海岸/东海岸/日本东京</td><td>任意</td>
